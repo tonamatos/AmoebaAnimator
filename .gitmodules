@@ -1,0 +1,3 @@
+[submodule "FerGroup"]
+	path = FerGroup
+	url = https://github.com/tonamatos/FerGroup.git
