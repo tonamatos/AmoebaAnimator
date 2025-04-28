@@ -104,6 +104,6 @@ AmoebaAnimator/
 ```
 
 ## ✨ Credits
-Created by Tonatiuh Matos-Wiederhold as part of the 2025 Directed Reading Program [details and students to be added].
+Created by Tonatiuh Matos-[Wiederhold.dev](https://wiederhold.dev) as part of the 2025 Directed Reading Program at the University of Toronto.
 
 Powered by ManimCE and custom algebraic tooling.
